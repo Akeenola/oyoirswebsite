@@ -1512,12 +1512,15 @@ section, header {
     margin: 1.75rem auto; 
 }
 .smalltax p,ul li{
-  font-size: 20px;
-  
+  font-size: 25px;
+  line-height:2em;
 }
 .smalltax h3{
-  font-size: 30px;
+  font-size: 40px;
 }
 p{
   line-height: 25px;
+}
+.smalltax article{
+  border-bottom: #1ae47f solid 0.2em; margin-bottom: 20px;
 }
