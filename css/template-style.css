@@ -1524,3 +1524,13 @@ p{
 .smalltax article{
   border-bottom: #1ae47f solid 0.2em; margin-bottom: 20px;
 }
+section article p{
+  font-size: 25px;
+  line-height:2em;
+  
+
+}
+section.newsroom{padding: 1em;}
+article{
+  padding:1em
+}
