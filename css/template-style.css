@@ -1530,7 +1530,12 @@ section article p{
   
 
 }
+div.tax p{
+  color:white;font-size:20px ;line-height: 50px;
+}
 section.newsroom{padding: 1em;}
 article{
   padding:1em
 }
+a.download{background: rgb(238, 15, 15);border: 2px solid rgb(180, 114, 114);border-radius: 5%;}
+a.download:hover {border: 2px solid white;font:30px white solid;background: rgb(226, 54, 11);}
