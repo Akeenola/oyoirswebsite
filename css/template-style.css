@@ -1539,3 +1539,4 @@ article{
 }
 a.download{background: rgb(238, 15, 15);border: 2px solid rgb(180, 114, 114);border-radius: 5%;}
 a.download:hover {border: 2px solid white;font:30px white solid;background: rgb(226, 54, 11);}
+div.address h2{border-bottom:red solid 2px;font-size: 50px;width:40%;}
